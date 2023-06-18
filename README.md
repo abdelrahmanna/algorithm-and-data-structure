@@ -1,2 +1,1 @@
-# daily-coding-problems
-my solutions to the "daily coding problems"
+# Data structure and algorithms
